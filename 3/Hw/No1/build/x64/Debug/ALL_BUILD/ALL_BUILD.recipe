@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>D:\KMITL University\1st year 2nd sem\OOP\3\Hw\No1\build\x64\Debug\ZERO_CHECK</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>D:\KMITL University\1st year 2nd sem\OOP\3\Hw\No1\build\Debug\No1_1.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>D:\KMITL University\1st year 2nd sem\OOP\3\Hw\No1\build\Debug\No1_2.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>D:\KMITL University\1st year 2nd sem\OOP\3\Hw\No1\build\Debug\No1_3.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>D:\KMITL University\1st year 2nd sem\OOP\3\Hw\No1\build\x64\Debug\ALL_BUILD</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles />
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

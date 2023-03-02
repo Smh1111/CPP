@@ -1,0 +1,10 @@
+^D:\KMITL UNIVERSITY\1ST YEAR 2ND SEM\OOP\3\HW\NO2\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SD:/KMITL University/1st year 2nd sem/OOP/3/Hw/No2" "-BD:/KMITL University/1st year 2nd sem/OOP/3/Hw/No2/build" --check-stamp-file "D:/KMITL University/1st year 2nd sem/OOP/3/Hw/No2/build/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

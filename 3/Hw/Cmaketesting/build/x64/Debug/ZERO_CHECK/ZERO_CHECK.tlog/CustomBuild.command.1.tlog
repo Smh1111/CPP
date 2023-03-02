@@ -1,0 +1,10 @@
+^D:\KMITL UNIVERSITY\1ST YEAR 2ND SEM\OOP\3\HW\CMAKETESTING\BUILD\CMAKEFILES\261A1311C4C9B60EBD5D6D7BEE246298\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SD:/KMITL University/1st year 2nd sem/OOP/3/Hw/Cmaketesting" "-BD:/KMITL University/1st year 2nd sem/OOP/3/Hw/Cmaketesting/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "D:/KMITL University/1st year 2nd sem/OOP/3/Hw/Cmaketesting/build/unstylize.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

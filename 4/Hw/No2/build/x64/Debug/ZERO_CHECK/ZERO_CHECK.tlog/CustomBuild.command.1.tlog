@@ -1,0 +1,10 @@
+^D:\KMITL UNIVERSITY\1ST YEAR 2ND SEM\OOP\4\HW\NO2\BUILD\CMAKEFILES\C4A7D8C4736B06363C690610C5641DA0\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SD:/KMITL University/1st year 2nd sem/OOP/4/Hw/No2" "-BD:/KMITL University/1st year 2nd sem/OOP/4/Hw/No2/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "D:/KMITL University/1st year 2nd sem/OOP/4/Hw/No2/build/MyProject.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

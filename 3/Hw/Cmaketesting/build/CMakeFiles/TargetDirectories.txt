@@ -1,0 +1,3 @@
+D:/KMITL University/1st year 2nd sem/OOP/3/Hw/Cmaketesting/build/CMakeFiles/unstylize.dir
+D:/KMITL University/1st year 2nd sem/OOP/3/Hw/Cmaketesting/build/CMakeFiles/ALL_BUILD.dir
+D:/KMITL University/1st year 2nd sem/OOP/3/Hw/Cmaketesting/build/CMakeFiles/ZERO_CHECK.dir

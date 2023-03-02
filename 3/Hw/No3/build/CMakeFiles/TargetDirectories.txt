@@ -1,0 +1,4 @@
+D:/KMITL University/1st year 2nd sem/OOP/3/Hw/No3/build/CMakeFiles/points.dir
+D:/KMITL University/1st year 2nd sem/OOP/3/Hw/No3/build/CMakeFiles/No3.dir
+D:/KMITL University/1st year 2nd sem/OOP/3/Hw/No3/build/CMakeFiles/ALL_BUILD.dir
+D:/KMITL University/1st year 2nd sem/OOP/3/Hw/No3/build/CMakeFiles/ZERO_CHECK.dir
